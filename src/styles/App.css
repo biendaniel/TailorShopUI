@@ -1,0 +1,17 @@
+header {
+    background-color: darkcyan;
+}
+
+
+footer {
+    background-color: darkgoldenrod;
+}
+
+select {
+    text-transform: capitalize;
+}
+
+main {
+    text-align: center;
+    
+}

@@ -1,0 +1,10 @@
+.textile-element {
+    margin: auto;
+    border: 2px solid;
+    padding: 1px;
+    max-width: 600px;
+}
+
+.textile-image {
+    max-width: 250px;
+}

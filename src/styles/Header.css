@@ -1,0 +1,23 @@
+.header-element {
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: darkcyan solid 6px;
+}
+
+.header-element:hover {
+    font-weight: bold;
+    border-bottom: white solid 6px;
+}
+
+header > ul > li{
+    flex-grow: 1;
+    list-style-type: none;
+}
+
+header > ul {
+display: flex;
+}
